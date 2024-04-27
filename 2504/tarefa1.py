@@ -7,7 +7,7 @@ soma = 0 #Armazenar a soma dos numero inseridos
 maior = 0 #Usado para salvar o numero maior
 menor_aux1 = 0 #Usado para salvar o numero 
 menor_aux3 = 0 #Usado para salvar o primeiro numero inserido
-menor = 0 #Usado para slavar numero menor
+menor = 0 #Usado para salvar numero menor
 while x == 0:
     numero = int(input("Numero => ")) #numero de entrada
     menor_aux1 = numero
