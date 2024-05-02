@@ -9,3 +9,4 @@ for x in range (11):
     
     print(f"{numero} X {multi} = {numero * multi}")
     multi = multi + 1
+    
