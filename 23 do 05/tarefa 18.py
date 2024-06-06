@@ -11,7 +11,7 @@
      
 
 
-
+for x in sorted(dic, key = dic.get ,reverse= False):
     
     
    
